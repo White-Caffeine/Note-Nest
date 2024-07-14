@@ -1,25 +1,24 @@
 **Project: Note Nest- Digital Note-Taking Application**
 
 **Problem Statement**
-**1. Lack of organisation:** Existing note-taking applications lacked organisation and user-friendliness, making it challenging to manage important notes effectively.
-**2. Limited multimedia support:** Users faced limitations in adding multimedia elements such as images and hyperlinks to their notes, thereby restricting the richness of their content.
-**3. Uniform user experience:** There was a need for a personalised note-taking experience where users could customise the aesthetics of their notes to suit their preferences.
-**4. Optimisation concerns:** Efficient storage and display of notes were critical to optimise memory space and enhance overall performance.
-
+Existing note-taking applications suffered from a lack of organization and user-friendliness, hindering effective management of critical notes. Additionally, these platforms offered limited multimedia support, restricting users from embedding rich content such as images and hyperlinks. A uniform user experience further emphasized the need for personalization, allowing users to customize the aesthetics of their notes to align with their preferences. Moreover, optimization concerns were paramount, necessitating efficient storage and display mechanisms to conserve memory space and enhance overall performance.
 
 **Key Features**
-**1. Note Composition:**
-   a. included fields for note title, note subtitle, and note body.
-   b. integrated a text view to display the date and time when the note was created.
-**2. Multimedia Integration:**
-   a. added options for users to insert images and hyperlinks into their notes.
-**3. Personalisation:**
-   a. provided a choice of colours from a predefined set for note personalisation.
-**4. User Interface:**
-   a. utilised recycler view to display notes in grid order, optimising screen space and memory usage.
-   b. provided the user with a search bar wherein the user can input specific words, terms or titles of the note he/she is searching for.
-   c. The user can directly create a note with hyperlinks and images from the quick actions buttons provided on the main screen.
-   d. The user can change the colour, images, and hyperlinks through the bottom navigation bar provided under the Create Note section of the application.
+1. **Note Composition:**
+   - Implemented fields for note title, subtitle, and body to facilitate structured content creation.
+   - Integrated a timestamp display within the text view to indicate the note's creation date and time.
+
+2. **Multimedia Integration:**
+   - Enhanced functionality by enabling users to seamlessly embed images and hyperlinks into their notes, enriching content depth and interactivity.
+
+3. **Personalisation:**
+   - Offered customizable options through a predefined colour palette, empowering users to personalize note aesthetics according to their preferences.
+
+4. **User Interface:**
+   - Leveraged RecyclerView to present notes in an optimized grid layout, maximizing screen utilization and memory efficiency.
+   - Incorporated a search bar feature, facilitating quick retrieval of specific notes based on keywords or titles.
+   - Implemented quick action buttons on the main screen for instant creation of notes with embedded hyperlinks and images.
+   - Enhanced user control by integrating a bottom navigation bar in the Create Note section, allowing customization of colours, images, and hyperlinks directly within the application interface.
 
    **Targeted Audience**
    1. Students facing the need to organise study notes
