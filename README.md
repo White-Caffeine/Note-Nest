@@ -1,7 +1,6 @@
 **Project: Note Nest- Digital Note-Taking Application**
 
 **Problem Statement**
-
 **1. Lack of organisation:** Existing note-taking applications lacked organisation and user-friendliness, making it challenging to manage important notes effectively.
 **2. Limited multimedia support:** Users faced limitations in adding multimedia elements such as images and hyperlinks to their notes, thereby restricting the richness of their content.
 **3. Uniform user experience:** There was a need for a personalised note-taking experience where users could customise the aesthetics of their notes to suit their preferences.
@@ -9,7 +8,6 @@
 
 
 **Key Features**
-
 **1. Note Composition:**
    a. included fields for note title, note subtitle, and note body.
    b. integrated a text view to display the date and time when the note was created.
@@ -24,7 +22,6 @@
    d. The user can change the colour, images, and hyperlinks through the bottom navigation bar provided under the Create Note section of the application.
 
    **Targeted Audience**
-   
    1. Students facing the need to organise study notes
    2. Professionals managing work-relalted notes.
    3. Individuals who prefer a digital method to track personal information and ideas.
