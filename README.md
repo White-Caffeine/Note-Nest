@@ -8,7 +8,6 @@
 
 
 **Key Features**
-
 **1. Note Composition:**
    a. included fields for note title, note subtitle, and note body.
    b. integrated a text view to display the date and time when the note was created.
